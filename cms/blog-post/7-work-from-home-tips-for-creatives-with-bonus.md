@@ -1,28 +1,25 @@
 ---
-f_date-written: '2020-05-04T00:00:00.000Z'
-f_show: true
-f_summary: >-
-  Everyone is struggling right now in some way. We’re all adapting to
-  circumstances that are new and ever-changing, so don’t be so hard on yourself.
-f_author: Inês Cortez
 title: 7 Work From Home Tips for Creatives (with bonus)
-slug: 7-work-from-home-tips-for-creatives-with-bonus
-f_author-photo:
-  url: >-
-    https://uploads-ssl.webflow.com/5fc520c5e0322e7cf2f10b31/60816cbd29a8f2021d29b21b_2_jqDlTrO5Cc8EeCUx6l5N8g.jpeg
-  alt: null
+created-on: 2021-04-22T12:32:06.735Z
+updated-on: 2021-10-25T13:16:50.030Z
+published-on: 2021-10-25T13:17:26.630Z
+f_summary: Everyone is struggling right now in some way. We’re all adapting to
+  circumstances that are new and ever-changing, so don’t be so hard on yourself.
 f_main-image:
-  url: >-
-    https://uploads-ssl.webflow.com/5fc520c5e0322e7cf2f10b31/60816cbaacff9b2f4de35378_1_XPvVSWuotkdWQDJHSr0Q7g.png
+  url: https://uploads-ssl.webflow.com/5fc520c5e0322e7cf2f10b31/60816cbaacff9b2f4de35378_1_XPvVSWuotkdWQDJHSr0Q7g.png
   alt: null
-updated-on: '2021-10-25T13:16:50.030Z'
-created-on: '2021-04-22T12:32:06.735Z'
-published-on: '2021-10-25T13:17:26.630Z'
-layout: '[blog-post].html'
+f_author-photo:
+  url: https://uploads-ssl.webflow.com/5fc520c5e0322e7cf2f10b31/60816cbd29a8f2021d29b21b_2_jqDlTrO5Cc8EeCUx6l5N8g.jpeg
+  alt: null
+f_author: Inês Cortez
+f_date-written: 2020-05-04T00:00:00.000Z
+f_show: true
 tags: blog-post
+layout: "[blog-post].html"
+slug: 7-work-from-home-tips-for-creatives-with-bonus
+date: 2022-11-24T13:17:23.068Z
 ---
-
-### You’re not alone in this.
+### TEST - You’re not alone in this.
 
 ‍
 
@@ -40,11 +37,11 @@ I used to think that the first weeks in confinement would be the easiest ones. T
 
 ‍
 
-### 1\. Change your working space
+### 1. Change your working space
 
 ‍
 
-I know that one of the most common pieces of advice is to have a fixed place to work. I tried, _I swear I tried_, but it didn’t work for me.
+I know that one of the most common pieces of advice is to have a fixed place to work. I tried, *I swear I tried*, but it didn’t work for me.
 
 ‍
 
@@ -62,45 +59,45 @@ Isn’t the possibility to change workspaces as much as we want one of the reaso
 
 ‍
 
-### 2\. Get wild in your senses
+### 2. Get wild in your senses
 
 ‍
 
 Touch:
 
-*   The flour when you bake.
-*   The land when you take care of your plants.
-*   The fabrics in your house that you normally don’t notice.
+* The flour when you bake.
+* The land when you take care of your plants.
+* The fabrics in your house that you normally don’t notice.
 
 ‍
 
 See:
 
-*   The sunset or sunrise if you can.
-*   The colors in your plants.
-*   The rain falling.
+* The sunset or sunrise if you can.
+* The colors in your plants.
+* The rain falling.
 
 ‍
 
 Listen:
 
-*   To all the noises — _actually, am I the only one who’s been noticing noises that I had never heard before? I heard church bells the other day, and I don’t even know where I have a church nearby._
-*   To the birds singing much more.
-*   More of what to listen to at #7…
+* To all the noises — *actually, am I the only one who’s been noticing noises that I had never heard before? I heard church bells the other day, and I don’t even know where I have a church nearby.*
+* To the birds singing much more.
+* More of what to listen to at #7…
 
 ‍
 
 Smell:
 
-*   Candles — they have been my best friend.
-*   Your cooking. I am getting more adventurous with more spices, and speaking of which…
+* Candles — they have been my best friend.
+* Your cooking. I am getting more adventurous with more spices, and speaking of which…
 
 ‍
 
 Taste:
 
-*   Different dishes (try to cook the cuisines of other countries).
-*   Homemade smoothies and lemonade.
+* Different dishes (try to cook the cuisines of other countries).
+* Homemade smoothies and lemonade.
 
 ‍
 
@@ -110,7 +107,7 @@ Going wild with your senses will keep them awake. That will keep you more aware,
 
 ‍
 
-### 3\. Open those windows
+### 3. Open those windows
 
 ‍
 
@@ -128,7 +125,7 @@ My trick? I open as many windows as I can in my house. I work in front of my win
 
 ‍
 
-### 4\. Gotta have those rituals
+### 4. Gotta have those rituals
 
 ‍
 
@@ -172,7 +169,7 @@ I don’t know who sold us the idea of working in our pyjamas, but to me those a
 
 ### ‍
 
-### 5\. Get that dream or hobby out of the closet
+### 5. Get that dream or hobby out of the closet
 
 ‍
 
@@ -186,7 +183,7 @@ As a language nerd, I have chosen to learn Hungarian. I have been to Hungary twi
 
 ‍
 
-### 6\. Cut yourself some slack
+### 6. Cut yourself some slack
 
 ‍
 
@@ -196,7 +193,7 @@ It’s ok if you don’t feel as productive as you used to. It’s ok if you fee
 
 ‍
 
-### 7\. Get back to the classics — here’s the bonus of listening
+### 7. Get back to the classics — here’s the bonus of listening
 
 ‍
 
@@ -250,10 +247,10 @@ Don’t forget that you work with human beings who are probably feeling the same
 
 The world needs a lot of help right now, and you can see how you can contribute. For example:
 
-*   Donate money to your national health service.
-*   I have found a volunteering group that is distributing meals across my city for families in need, and my family and I cook meals for them whenever we can.
-*   There are volunteering projects you can do online. For example, The United Nations Volunteers programme has some that you can check out [here](https://www.onlinevolunteering.org/en).
-*   Call a senior — search in your local community how you can keep them company through a phone call.
+* Donate money to your national health service.
+* I have found a volunteering group that is distributing meals across my city for families in need, and my family and I cook meals for them whenever we can.
+* There are volunteering projects you can do online. For example, The United Nations Volunteers programme has some that you can check out [here](https://www.onlinevolunteering.org/en).
+* Call a senior — search in your local community how you can keep them company through a phone call.
 
 What do you think of these tips? Are you going to try any of them? Let us know!
 
